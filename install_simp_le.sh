@@ -3,7 +3,7 @@
 set -e
 
 # Install python and packages needed to build simp_le
-apk add --update python3 git gcc musl-dev libffi-dev python3-dev openssl-dev
+apk add --update python3 git gcc musl-dev libffi-dev python3-dev openssl-dev rust
 
 # Create expected symlinks if they don't exist
 [[ -e /usr/bin/pip ]] || ln -sf /usr/bin/pip3 /usr/bin/pip
