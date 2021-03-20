@@ -17,6 +17,7 @@ git -C /src clone --depth=1 --branch $branch https://github.com/zenhack/simp_le.
 # Install simp_le in /usr/bin
 cd /src/simp_le
 #pip install wheel requests
+pip install --upgrade pip
 for pkg in pip setuptools wheel
 do
   pip3 install -U "${pkg?}"
