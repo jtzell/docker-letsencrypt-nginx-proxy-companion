@@ -1,8 +1,4 @@
-[![Build Status](https://travis-ci.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion.svg?branch=master)](https://travis-ci.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion)
-[![GitHub release](https://img.shields.io/github/release/nginx-proxy/docker-letsencrypt-nginx-proxy-companion.svg)](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion/releases)
-[![Image info](https://images.microbadger.com/badges/image/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
-[![Docker stars](https://img.shields.io/docker/stars/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
-[![Docker pulls](https://img.shields.io/docker/pulls/jrcs/letsencrypt-nginx-proxy-companion.svg)](https://hub.docker.com/r/jrcs/letsencrypt-nginx-proxy-companion "Click to view the image on Docker Hub")
+**Folked from:** nginx-proxy/docker-letsencrypt-nginx-proxy-companion
 
 **letsencrypt-nginx-proxy-companion** is a lightweight companion container for [**nginx-proxy**](https://github.com/jwilder/nginx-proxy).
 
